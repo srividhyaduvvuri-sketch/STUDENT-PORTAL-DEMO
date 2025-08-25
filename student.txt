@@ -1,0 +1,8 @@
+Student Name: VINDHYA
+Student Date of birth: 21-08-2005
+Student Class : 3rd Degree
+Address : Kakinada
+College name : Aditya degree college
+Blood Group : B+
+
+
